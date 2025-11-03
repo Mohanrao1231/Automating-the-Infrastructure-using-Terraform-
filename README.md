@@ -10,8 +10,7 @@
 # Automating Infrastructure using Terraform
 
 
-###
-
+####
 Description:
 
 Nowadays, infrastructure automation is critical. We tend to put the most emphasis on software development processes, but infrastructure deployment strategy is just as important. Infrastructure automation not only aids disaster recovery, but it also facilitates testing and development.
